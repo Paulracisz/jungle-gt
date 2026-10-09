@@ -1,0 +1,10 @@
+{
+  "tracks": [
+    {
+      "title": "Your Track Title",
+      "artist": "Artist Name",
+      "file": "your-track.mp3",
+      "credit": "CC BY 4.0"
+    }
+  ]
+}
